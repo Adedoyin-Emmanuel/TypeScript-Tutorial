@@ -1,1 +1,2 @@
-let age: number  = 17;
+let age: number = 35;
+
