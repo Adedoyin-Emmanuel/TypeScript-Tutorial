@@ -9,3 +9,13 @@ const Emp1 = {
     }
 };
 console.log(Emp1.drive());
+const Driver1 = {
+    firstName: "Adeniyi",
+    lastName: "Adedoyin",
+    age: 20,
+    drive: () => {
+        return "i am riding";
+    },
+    job: "Driver",
+    carType: "Ferarri",
+};
